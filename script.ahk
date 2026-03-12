@@ -10,6 +10,8 @@ Volume_Down::WheelUp
 ;; various numpad things
 #HotIf WinActive("ahk_exe WindowsTerminal.exe")
 Numpad8::Send "^+t"
+!Left::^+Tab
+!Right::^Tab
 #HotIf WinExist("ahk_exe WindowsTerminal.exe")
 Numpad8::WinActivate("ahk_exe WindowsTerminal.exe")
 #HotIf 
