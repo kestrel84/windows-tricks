@@ -22,3 +22,15 @@ Other miscellaneous windows tricks:
 - Post-install cleanup, bloat removal and stuff from [Chris Titus](https://christitus.com/)'s winUtil - `irm "https://christitus.com/win" | iex` in an admin powershell
 - Remember that winget exists
 - You can change the colour scheme of the windows terminal in the settings (the arrow next to the new tab button and then settings, or Ctrl+,)
+
+Other things to install on a fresh OS:
+- Coding tools
+    - nvm, node and npm
+    - rustup
+    - uv
+    - git
+- IDEs
+    - Jetbrains Toolbox
+    - VSCodium
+- Utils
+    - MobaXTerm for SSH
