@@ -26,11 +26,12 @@ Other miscellaneous windows tricks:
 Other things to install on a fresh OS:
 - Coding tools
     - nvm, node and npm
-    - rustup
-    - uv
-    - git
+    - rustup, rust and cargo
+    - python and uv
+    - git (though if cloning this repo, you'll already have it lmao)
 - IDEs
     - Jetbrains Toolbox
     - VSCodium
 - Utils
     - MobaXTerm for SSH
+    - Wireguard
